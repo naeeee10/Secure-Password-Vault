@@ -71,7 +71,7 @@ The project demonstrates strong use of **Object-Oriented Programming principles*
 
 _UML Diagram (as per project design):_
 
-![UML Diagram](image.jpg)
+![UML Diagram](image.png)
 
 - `SecurePasswordVaultApp` manages **users and vault interactions**.  
 - A `User` is associated with a **SubscriptionPlan** and **PasswordVault**.  
