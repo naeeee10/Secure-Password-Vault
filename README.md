@@ -156,15 +156,6 @@ java Project.SecurePasswordVaultApp
 
 ---
 
-## Extending the Project
-
-- **Add New Plan**: Extend `SubscriptionPlan`, override methods for encryption & name.  
-- **Add New Algorithm**: Extend `EncryptionEngine` with new `encrypt()` & `decrypt()` implementations.  
-- **Enhance Security**: Add 2FA, password hashing for account login, or multi-device sync.  
-- **Add GUI**: Replace CLI with JavaFX/Swing interface for better UX.  
-
----
-
 ## References
 - [Object-Oriented Programming Concepts](https://en.wikipedia.org/wiki/Object-oriented_programming)  
 - [Java SE Documentation](https://docs.oracle.com/javase/8/docs/)  
